@@ -14,7 +14,15 @@
 		"dbaeumer.vscode-eslint",
 		"ms-vscode.vscode-typescript-tslint-plugin",
 		"octref.vetur",
-		"dariofuzinato.vue-peek"
+		"dariofuzinato.vue-peek",
+		"esbenp.prettier-vscode",
+		"formulahendry.auto-rename-tag",
+		"christian-kohler.path-intellisense",
+		"CoenraadS.bracket-pair-colorizer",
+		"streetsidesoftware.code-spell-checker",
+		"VisualStudioExptTeam.vscodeintellicode",
+		"TabNine.tabnine-vscode",
+		"mhutchie.git-graph"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.

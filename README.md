@@ -1,5 +1,4 @@
-Vue.js - TypeScript DevContainer Sample
-=====
+# Vue.js - TypeScript DevContainer Sample
 
 This repository is skelton code of Vue.js & TypeScript IDE using VS Code DevContainer.
 
@@ -14,7 +13,7 @@ This repository is skelton code of Vue.js & TypeScript IDE using VS Code DevCont
     - Answer following options.
 5. Run vue project (on VS Code Terminal)
     - `# yarn serve` (ex. using yarn)
-6. Open http://localhost:8080 in your browser
+6. Open <http://localhost:8080> in your browser
 
 ## VS Code plugins
 

@@ -1,11 +1,11 @@
-// For format details, see https://aka.ms/vscode-remote/devcontainer.json or this file's README at:
-// https://github.com/microsoft/vscode-dev-containers/tree/v0.112.0/containers/typescript-node-12
 {
+	// For format details, see https://aka.ms/vscode-remote/devcontainer.json or this file's README at:
+	// https://github.com/microsoft/vscode-dev-containers/tree/v0.112.0/containers/typescript-node-12
 	"name": "Vue CLI & Node.js 12 & TypeScript",
 	"dockerFile": "Dockerfile",
 
 	// Set *default* container specific settings.json values on container create.
-	"settings": { 
+	"settings": {
 		"terminal.integrated.shell.linux": "/bin/bash"
 	},
 

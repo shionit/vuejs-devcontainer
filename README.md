@@ -18,12 +18,10 @@ This repository is skelton code of Vue.js & TypeScript IDE using VS Code DevCont
 ## VS Code plugins
 
 - [ESLint](https://marketplace.visualstudio.com//items?itemName=dbaeumer.vscode-eslint)
-- [TSLint](https://marketplace.visualstudio.com//items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
 - [Vetur](https://marketplace.visualstudio.com//items?itemName=octref.vetur)
 - [Vue Peek](https://marketplace.visualstudio.com//items?itemName=dariofuzinato.vue-peek)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com//items?itemName=esbenp.prettier-vscode)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com//items?itemName=VisualStudioExptTeam.vscodeintellicode)
-- [TabNine](https://marketplace.visualstudio.com//items?itemName=TabNine.tabnine-vscode)
 - [Auto Rename Tag](https://marketplace.visualstudio.com//items?itemName=formulahendry.auto-rename-tag)
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com//items?itemName=CoenraadS.bracket-pair-colorizer)
 - [Path Intellisense](https://marketplace.visualstudio.com//items?itemName=christian-kohler.path-intellisense)

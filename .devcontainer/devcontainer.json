@@ -6,13 +6,18 @@
 
 	// Set *default* container specific settings.json values on container create.
 	"settings": {
-		"terminal.integrated.shell.linux": "/bin/bash"
+		"terminal.integrated.shell.linux": "/bin/zsh",
+		"files.trimTrailingWhitespace": true,
+		"editor.formatOnSave": true,
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"editor.codeActionsOnSave": {
+			"source.fixAll.eslint": true
+		},
 	},
 
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		"dbaeumer.vscode-eslint",
-		"ms-vscode.vscode-typescript-tslint-plugin",
 		"octref.vetur",
 		"dariofuzinato.vue-peek",
 		"esbenp.prettier-vscode",
@@ -21,7 +26,6 @@
 		"CoenraadS.bracket-pair-colorizer",
 		"streetsidesoftware.code-spell-checker",
 		"VisualStudioExptTeam.vscodeintellicode",
-		"TabNine.tabnine-vscode",
 		"mhutchie.git-graph"
 	],
 
